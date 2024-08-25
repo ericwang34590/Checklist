@@ -1,4 +1,4 @@
-const array = ["Amira", "Baylee", "Briana", "Chelsea", "Cristian", "Danny", "Eric", "Jack", "Kenneth", "Lilly", "Spencer", "Zane"];
+const array = ["Amira", "Baylee", "Briana", "Chelsea", "Cristian", "Danny", "Eric", "Jack", "Kenneth", "Lilly", "Reid", "Spencer", "Zane"];
 
 document.addEventListener('DOMContentLoaded', function() {
 
