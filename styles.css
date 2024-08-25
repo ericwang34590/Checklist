@@ -1,0 +1,33 @@
+.main {
+    width: 50vw;
+    height: 100px;
+    border: 2px solid #000000;
+    border-radius: 100px;
+    margin: auto;
+    margin-top: 2vh;
+    display: flex;
+    font-size: 30px;
+    background-color: #d1283f;
+    align-items: center;
+}
+
+.content {
+    margin-left: 5vw;
+}
+
+body {
+    margin-top: 20px;
+    font-family: "Courier New", monospace;
+}
+
+.present {
+    background-color: #4caf4f ;
+}
+
+button {
+    width: 25vw; 
+    height: 50px;
+}
+hr {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.493);
+}
