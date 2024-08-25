@@ -36,9 +36,7 @@ function toggle(div) {
         localStorage.setItem(name, "true");
     } else {
         localStorage.setItem(name, "false")
-    }
-    console.log(localStorage);
-    
+    }   
 }
 
 function all(action) {
